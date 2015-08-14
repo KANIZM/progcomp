@@ -45,5 +45,6 @@ int dy[] = {-1,0,1,0};
 int sttoi(std::string str){int ret;std::stringstream ss;ss << str;ss >> ret;return ret;}
 
 int main(){
+  
   return 0;
 }
